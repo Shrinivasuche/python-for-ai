@@ -4,3 +4,9 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+.vscode/
+.idea/
+
+# Ignore the workspace file for Visual Studio Code
+*.code-workspace
